@@ -1,0 +1,18 @@
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\bin\Debug\net6.0\lecture 1 another assembly.exe
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\bin\Debug\net6.0\lecture 1 another assembly.deps.json
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\bin\Debug\net6.0\lecture 1 another assembly.runtimeconfig.json
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\bin\Debug\net6.0\lecture 1 another assembly.dll
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\bin\Debug\net6.0\lecture 1 another assembly.pdb
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\bin\Debug\net6.0\lecture 1.dll
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\bin\Debug\net6.0\lecture 1.pdb
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.csproj.AssemblyReference.cache
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.AssemblyInfoInputs.cache
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.AssemblyInfo.cs
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.csproj.CoreCompileInputs.cache
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.csproj.CopyComplete
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.dll
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\refint\lecture 1 another assembly.dll
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.pdb
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\lecture 1 another assembly.genruntimeconfig.cache
+C:\Users\WonitaFebruary\Documents\object-orientated\Object-Oriented-Programming-with-CSharp-C-2022\lecture 1\lecture 1 another assembly\obj\Debug\net6.0\ref\lecture 1 another assembly.dll
